@@ -59,6 +59,14 @@ B.Eng. in Electrical Engineering from **RFH Köln**, with experience at **Ford W
 
 ## 💻 Featured Projects
 
+### 🏭 [Predictive Maintenance AI](https://github.com/Gastonitou/Predictive-Maintenance-AI)
+> *Production-ready predictive maintenance system for industrial automation*
+- Real-time sensor monitoring with MQTT and PLC simulation
+- ML anomaly detection (Isolation Forest + LSTM + XGBoost)
+- FastAPI REST API + Streamlit dashboard
+- Full Docker Compose deployment
+- 🏗️ *Built with: Python, scikit-learn, TensorFlow, FastAPI, MQTT, Docker, Grafana*
+
 ### 🤖 [AI Tax Assistant (RAG)](https://github.com/Gastonitou/ai-tax-assistant-rag)
 > *Production-ready RAG system for document intelligence*
 - RAG pipeline: LLMs + Vector Search (FAISS/ChromaDB)
